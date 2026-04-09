@@ -1,5 +1,10 @@
 [中文](README.zh-CN.md) | [English](README.md)
-
+# Awesome UAS List [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com) &nbsp; 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com) &nbsp; 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com) &nbsp; 
+[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/) &nbsp; 
+[![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/)
 # Awesome UAS List  
 A curated list of AI, machine learning, computer vision, and autonomy resources for unmanned aerial vehicles (UAS), drones, quadcopters, and aerial robotics — including navigation, SLAM, flight control, path planning, simulation, and perception.
 
@@ -45,21 +50,21 @@ A curated list of AI, machine learning, computer vision, and autonomy resources 
 - [DroneKit](https://github.com/dronekit/dronekit-python) – Python library for drone control using MAVLink-compatible vehicles.
 ### Firmware for Flight Controllers
 - [Ardupilot](https://github.com/ArduPilot/ardupilot)
-- [BaseFlight](https://github.com/multiwii/baseflight) - :ghost:
+- [BaseFlight](https://github.com/multiwii/baseflight) -
 - [Betaflight](https://github.com/betaflight/betaflight) - Fork of Cleanflight.
-- [ButterFlight](https://github.com/ButterFlight/butterflight) - :ghost: Fork of Betaflight. Firmware focusing on Mini Quads.
-- [Cleanflight](https://github.com/cleanflight/cleanflight) - :ghost: Fork of BaseFlight. Supports more FCs and has additional PID contollers.
-- [dRonin](https://dronin.org) - :ghost: Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
+- [ButterFlight](https://github.com/ButterFlight/butterflight) - Fork of Betaflight. Firmware focusing on Mini Quads.
+- [Cleanflight](https://github.com/cleanflight/cleanflight) - Fork of BaseFlight. Supports more FCs and has additional PID contollers.
+- [dRonin](https://dronin.org) - Autopilot/flight controller firmware for controllers in the OpenPilot/Tau Labs family.
 - [EmuFlight](https://github.com/emuflight/EmuFlight) - FC Firmware focusing on flight performance, innovative filtering, leading-edge feature additions, and wide target support.
 - [FalcoX](https://flightone.com/download.php?version=stable) - Formerly known as Raceflight one, FlightOne.
 - [INAV](https://github.com/iNavFlight/inav)
 - [Kiss](https://www.flyduino.net/en_US/page/downloads) - Firmware for KISS FCs.
-- [LibrePilot](https://github.com/librepilot/LibrePilot) - :ghost: (GitHub fork is Outdated/Inactive)
+- [LibrePilot](https://github.com/librepilot/LibrePilot) - (GitHub fork is Outdated/Inactive)
 - [madflight](https://github.com/qqqlab/madflight) - Flight controller for Arduino ESP32 / RP2350 / RP2040 / STM32.
 - [Open Source Rover Control Code](https://github.com/nasa-jpl/osr-rover-code) - Nasa JPL command firmware for the OSR.
 - [PX4 Autopilot](https://github.com/PX4/PX4-Autopilot) - Rebranded to AutoPilot from Firmware
-- [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - :ghost: Firmware for BoldClash BWHOOP B-03 mini drone
-- [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - :ghost: Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features.
+- [SilverWare](https://github.com/silver13/BoldClash-BWHOOP-B-03) - Firmware for BoldClash BWHOOP B-03 mini drone
+- [SilverWare(NFE)](https://github.com/NotFastEnuf/NFE_Silverware) - Firmware for Alienwhoop ZER0, E011, BWHOOP B-03, H8mini, and BETA FPV LITE flight controllers with NotFastEnuf settings and experimental features.
 ### Firmware for Transmitters
 - [FreedomTX](https://github.com/tbs-fpv/freedomtx) - Custom firmware for TBS Tango 2 based on OpenTX.
 - [OpenTX](http://www.open-tx.org/) - Highly configurable open source firmware for RC radio transmitters.
@@ -78,8 +83,8 @@ A curated list of AI, machine learning, computer vision, and autonomy resources 
 - [ETHZ MPC Controllers](https://github.com/ethz-asl/mav_control_rw) – Model predictive control for quadrotors.
 ### Ground Control Stations
 - [QGroundControl](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows).
-- [Arduleader](https://github.com/geeksville/arduleader) - :ghost: An android ground controller (and other things) for Mavlink/Arduplane.
-- [Tower](https://github.com/DroidPlanner/Tower) - :ghost: Ground Control Station for Android Devices.
+- [Arduleader](https://github.com/geeksville/arduleader) - An android ground controller (and other things) for Mavlink/Arduplane.
+- [Tower](https://github.com/DroidPlanner/Tower) - Ground Control Station for Android Devices.
 - [MAVProxy](http://ardupilot.github.io/MAVProxy/) - A UAV ground station software package for MAVLink based systems.
 - [Ardupilot Mission Planner](https://ardupilot.org/planner/index.html) - A full-featured ground station application for the ArduPilot open source autopilot project.
 - [APM Planner 2](https://ardupilot.org/planner2/) - An open-source ground station application for MAVlink based autopilots including APM and PX4/Pixhawk that can be run on Windows, Mac OSX, and Linux.
@@ -209,13 +214,13 @@ List:
 - [RunCam](https://runcam.com)
 ## Products and Projects
 ### Unmanned Aerial Vehicles
-- [DJI](https://www.dji.com/) - :cn: - DJI is the world's leader in the consumer drone market - Mavic, Phantom, Inspire and Matrice series drones.
-- [Autel](https://www.autelpilot.eu/) - :cn: - Compact EVO series drones, alternative to DJI Mavic series. Dragonfish series fixed-wing UAVs coming soon.
-- [Eachine](https://www.eachine.com/) - :cn: - Mini and micro drones. FPV beginners sets.
-- [Hubsan](https://www.hubsan.com/na/) - :cn: - Micro and Mini lower cost drones.
-- [Parrot SA](https://www.parrot.com/global/) - :fr: - Famously Parrot Bebop and Parrot AR series drones.
-- [Syma](http://www.symatoys.com/) - :cn: - RC toy quadcopters.
-- [Yuneec International](https://www.yuneec.com/) - :cn: - Yuneec camera drones.
+- [DJI](https://www.dji.com/) - DJI is the world's leader in the consumer drone market - Mavic, Phantom, Inspire and Matrice series drones.
+- [Autel](https://www.autelpilot.eu/) - Compact EVO series drones, alternative to DJI Mavic series. Dragonfish series fixed-wing UAVs coming soon.
+- [Eachine](https://www.eachine.com/) - Mini and micro drones. FPV beginners sets.
+- [Hubsan](https://www.hubsan.com/na/) - Micro and Mini lower cost drones.
+- [Parrot SA](https://www.parrot.com/global/) - Famously Parrot Bebop and Parrot AR series drones.
+- [Syma](http://www.symatoys.com/) - RC toy quadcopters.
+- [Yuneec International](https://www.yuneec.com/) - Yuneec camera drones.
 - [AeroVironment](https://www.avinc.com/) - Small range fixed-wing UAVs.
 - [Baykar](https://www.baykartech.com/en/) - Bayraktar series battle- proven long-range fixed-wing UAVs.
 - [Eli](http://www.uav.ee/) - Pneumatic launchers for fixed wing UAVs.
